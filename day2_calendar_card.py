@@ -24,7 +24,7 @@ def weather_api(query):
     querystring = {"q":query,"lang":"eng"}
 
     headers = {
-       'x-rapidapi-key': "90a9b5fe8amshcd44beb77f3629dp1fec14jsn96842edbb26e",
+       'x-rapidapi-key': "Your API key",
        'x-rapidapi-host': "community-open-weather-map.p.rapidapi.com"
     }
 
