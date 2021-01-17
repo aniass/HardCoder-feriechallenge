@@ -10,3 +10,5 @@ Link for the event https://www.facebook.com/events/843253696243420?active_tab=ab
 - **Day 4**: Fat Burner;
 - **Day 5**: Movie Finder;
 - **Day 6**: Image Resizer;
+- **Day 7**: Password Generator;
+
