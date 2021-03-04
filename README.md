@@ -17,8 +17,7 @@ Link for the event https://www.facebook.com/events/843253696243420?active_tab=ab
 - **Day 10**: Summary.
 
 ### Technologies
-The project is created with:
-
-    Python 3.6
-    libraries: requests, BeautifulSoup, pytz, Pillow, pyperclip.
+The project is created with
+- Python 3.6
+- libraries: geocoder, requests, BeautifulSoup, pytz, Pillow, pyperclip.
 
